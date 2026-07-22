@@ -82,7 +82,7 @@ export default function Hero() {
                 <ArrowDown size={16} className="group-hover:translate-y-0.5 transition-transform" />
               </button>
               <a
-                href="/resume/Rishi_Raj_Resume.pdf"
+                href="/resume/Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 download
