@@ -104,7 +104,7 @@ export default function Hero() {
               <div className="logic-bloom absolute inset-0 scale-90" aria-hidden="true" />
               <div className="relative w-64 h-80 md:w-80 md:h-96 rounded-[2rem] overflow-hidden shadow-2xl border border-border/40">
                 <img
-                  src="images\IMG_20260720_152346.jpg" 
+                  src="/images/IMG_20260720_152346.jpg" 
                   class="zoom-out-image .w-full .h-full" 
                   alt="Rishi Raj — portrait in a warm, wood-accented study space"
                   className="w-full h-full object-cover"
